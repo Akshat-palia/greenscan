@@ -87,20 +87,22 @@ git clone https://github.com/YOUR_USERNAME/greenscan.git
 cd greenscan
 ```
 ### Frontend Setup
+~~~
 cd frontend
 npm install
 npm run dev
-
+~~~
 ### 📁 Project Structure
+~~~
 greenscan/
 ├── backend/
 ├── frontend/
 ├── README.md
-
+~~~
 ### 👨‍💻 Author
 
 Akshat Palia
-
+~~~
 LinkedIn: https://www.linkedin.com/in/akshatpalia/
 GitHub: https://github.com/akshat-palia
 Email: akshatpalia@gmail.com
