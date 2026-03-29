@@ -2,11 +2,6 @@
 
 🚀 **Live Demo:** https://greenscan-g0hf.b12sites.com/
 
-An AI-powered sustainability analysis platform that helps users understand the environmental impact of everyday objects.
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://greenscan-g0hf.b12sites.com/)
-# 🌱 GreenScan
-
-An AI-powered sustainability analysis platform that helps users understand the environmental impact of everyday objects.
 
 
 ---
